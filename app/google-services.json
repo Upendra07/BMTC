@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "873207060516",
+    "firebase_url": "https://project-bmtc-default-rtdb.firebaseio.com",
+    "project_id": "project-bmtc",
+    "storage_bucket": "project-bmtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873207060516:android:afbbfbc8627d44346220b1",
+        "android_client_info": {
+          "package_name": "com.example.bendrenagarasarige"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873207060516-ra0tk56s2k433n5dabhu3jmikgang58c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxiKTC4QYZ0xI43LySy7Ku74RbzGrtwIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873207060516-ra0tk56s2k433n5dabhu3jmikgang58c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873207060516:android:7d013fad39f4df8f6220b1",
+        "android_client_info": {
+          "package_name": "com.example.bmtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873207060516-ra0tk56s2k433n5dabhu3jmikgang58c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxiKTC4QYZ0xI43LySy7Ku74RbzGrtwIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873207060516-ra0tk56s2k433n5dabhu3jmikgang58c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

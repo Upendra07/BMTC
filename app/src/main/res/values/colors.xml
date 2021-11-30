@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#6625DC</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="black">@android:color/black</color>
+    <color name="purple_700">@android:color/holo_purple</color>
+    <color name="purple_200">@android:color/holo_purple</color>
+    <color name="teal_700">#00796B</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="purple_500">#9C27B0</color>
+</resources>
